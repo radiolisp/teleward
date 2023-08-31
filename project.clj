@@ -34,7 +34,8 @@
    [cheshire "5.10.0"]
    [org.clojure/tools.cli "1.0.206"]
    [org.clojure/tools.logging "1.2.4"]
-   [ch.qos.logback/logback-classic "1.2.11"]]
+   [ch.qos.logback/logback-classic "1.2.11"]
+   [hawk/hawk "0.2.11"]]
 
   :main ^:skip-aot teleward.main
 
