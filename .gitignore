@@ -27,3 +27,5 @@ reports
 
 scratch
 package
+.clj-kondo/
+.lsp/
