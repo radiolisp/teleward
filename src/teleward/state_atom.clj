@@ -1,7 +1,7 @@
 (ns teleward.state-atom
   "
   An atom-driven state that tracks a map like
-  chat-id => user => {attrs}
+  chat-id => user-id => {attrs}
   inside.
   "
   (:require
